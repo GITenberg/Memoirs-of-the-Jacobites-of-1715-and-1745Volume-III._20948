@@ -1,0 +1,39 @@
+_repo: Memoirs-of-the-Jacobites-of-1715-and-1745Volume-III._20948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, A. T., Mrs.
+    aliases:
+    - Thomson, M. A., Mrs.
+    - Wharton, Grace
+    - Thomson, Katherine Byerley
+    birthdate: 1797
+    deathdate: 1862
+    gutenberg_agent_id: '9623'
+    url: http://www.gutenberg.org/2009/agents/9623
+description: V. 1. John Erskine, Earl of Mar. James Radcliffe, Earl of Derwentwater.
+  The Master of Sinclair. Cameron of Lochiel -- v. 2. William Maxwell, Earl of Nithisdale.
+  William Gordon, Viscount Kenmure. William Murray, Marquis of Tullibardine. Sir John
+  Maclean. Rob Roy Macgregor Campbell. Simon Fraser, Lord Lovat -- v. 3. Lord George
+  Murray. James Drummond, Duke of Perth. Flora Macdonald. William Boyd, Earl of Kilmarnock.
+  Charles Radcliffe.
+gutenberg_issued: '2007-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1715'
+- !lcsh 'Jacobite Rebellion, 1745-1746'
+- !lcsh 'Jacobites'
+- !lcc 'DA'
+tableOfContents: Lord George Murray -- James Drummond, duke of Perth -- Flora Macdonald
+  -- William Boyd, earl of Kilmarnock -- Charles Radcliffe.
+title: Memoirs of the Jacobites of 1715 and 1745. Volume III.
+url: http://www.gutenberg.org/ebooks/20948
